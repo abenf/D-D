@@ -24,7 +24,7 @@ Whenever you cast the *Friends* cantrip from your Empathic Spells feature, you c
 |---|---|---|---|
 | 1 | 1 | 10 minutes | 10 ft |
 | 3 | 1 | 1 hour | 30 ft |
-| 8 | 3 | 1 hour | 30 ft |
+| 6 | 3 | 1 hour | 30 ft |
 | 10 | 10 | 1 hour | 30 ft|
 | 14 | 25 | 8 hours | 60 ft |
 | 18 | 50 | 24 hours | 120 ft |
