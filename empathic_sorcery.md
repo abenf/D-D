@@ -24,10 +24,10 @@ Whenever you cast the *Friends* cantrip from your Empathic Spells feature, you c
 |---|---|---|---|
 | 1 | 1 | 10 minutes | 10 ft |
 | 3 | 1 | 1 hour | 30 ft |
-| 10 | 3 | 1 hour | 30 ft |
-| 38 | 10 | 1 hour | 30 ft|
-| 52 | 25 | 8 hours | 60 ft |
-| 74 | 50 | 24 hours | 120 ft |
+| 8 | 3 | 1 hour | 30 ft |
+| 10 | 10 | 1 hour | 30 ft|
+| 14 | 25 | 8 hours | 60 ft |
+| 18 | 50 | 24 hours | 120 ft |
 
 All other regular limitations of the cantrip remain in place. Also, you cannot use Metamagic as part of the casting involved in using this Feature. 
 
