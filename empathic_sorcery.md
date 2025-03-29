@@ -14,7 +14,7 @@ When you reach a sorcerer level specified in the Empathic Spells table, you ther
 | 9 | *Awaken*<br/> *Circle of Power*<br/>  |
 
 ## Level 3: Emotional Intelligence
-Your attunement to the inner lives of others grants you keen understanding of their moods and feelings. Target one creature you can see within 30 feet of yourself. You comprehend the target's true emotions even if it is not immediately reflected in their words and actions. If the target has an intelligence of 3 or less or is otherwise incapable of conventional emotion, you are unable to read them.
+Your attunement to the inner lives of others grants you keen understanding of their moods and feelings. Target one creature you can see within 30 feet of yourself. You comprehend the target's true emotions even if they are not immediately reflected in the creature's words and actions. If the target has an intelligence of 3 or less or is otherwise incapable of conventional emotion, you are unable to read them.
 
 
 ## Level 6: Magnetic Presence
