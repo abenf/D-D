@@ -29,7 +29,7 @@ Whenever you cast the *Friends* cantrip from your Empathic Spells feature, you c
 | 14 | 25 | 8 hours | 60 ft |
 | 18 | 50 | 24 hours | 120 ft |
 
-All other regular limitations of the cantrip remain in place. Also, you cannot use Metamagic as part of the casting involved in using this Feature. 
+All other regular limitations of the cantrip remain in place. Also, you cannot use other Metamagic options as part of the casting involved in using this Feature. 
 
 
 ## Level 14: Wave of Emotions
