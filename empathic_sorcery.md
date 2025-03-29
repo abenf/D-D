@@ -10,7 +10,7 @@ When you reach a sorcerer level specified in the Empathic Spells table, you ther
 |--|--|
 | 3 | *Beast Bond*<br/> *Calm Emotions*<br/> *Comprehend Languages*<br/> *Friends*<br/> *Warding Bond*<br/> |
 | 5 | *Beacon of Hope*<br/> *Sending*<br/>  |
-| 7 | *Locate Creature*<br/> *Mordekainen's Private Sanctuary*<br/>  |
+| 7 | *Locate Creature*<br/> *Mordenkainen's Private Sanctuary*<br/>  |
 | 9 | *Awaken*<br/> *Circle of Power*<br/>  |
 
 ## Level 3: Emotional Intelligence
